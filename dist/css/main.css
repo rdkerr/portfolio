@@ -17,4 +17,4 @@ h1, h2, h3 {
   h1.sm-heading, h2.sm-heading, h3.sm-heading {
     margin-bottom: 2rem;
     padding: 0.2rem 1rem;
-    background: #37495b; }
+    background: rgba(55, 73, 91, 0.5); }
